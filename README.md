@@ -1,5 +1,5 @@
-# Homework #10
-## A Yen for the Future
+# Time Series
+
 ### Heather Byrd, 01/12/2021
 
 Required Inputs: yen.csv
